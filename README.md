@@ -2,14 +2,9 @@
 
 ## Overview of the analysis: 
 
-Explain the purpose of this analysis.
-
 The purpose of the analysis is to help Bobby's manager determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
 ## Results: 
-
-Provide a bulleted list with four major points from the two analysis deliverables. 
-
 ![Pewlett_Hackard_Analysis](Resources/Retiring_Titles_Table.png)
 - As we can see from the summary table of possible retirees by title, there are 29,414 Senior Engineers that could retire. 
 - From this same table we only see 2 Managers that could retire. This seems a little off and would want to investigate the data a bit more.
