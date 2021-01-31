@@ -19,7 +19,7 @@ We just need to look at the Retiring Titles Table and add the title counts of ev
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There is actually an abundance of potential retiring employees to choose from if you are only looking at employees born in 1965 as a potential mentee. If anything you will need to look at another 63,000 employees to train or hire for these employees leaving in this "silver tsunami". However mangement might want to use this opportunity to see if they can become more efficient and streamline its labor force in the coming years to improve profit margins. 
+There is actually an abundance of potential retiring employees to mentor the next generation of Pewlett Hackard. The problem will be that the company needs to create a program quickly to train or hire the potentially 63,000 replacement employees or in the next few years. They should do a two part analysis, looking what steps and programs would need to be taken in order to train there replacements as well as use this opportunity to see if they can become more efficient and streamline its labor force in the coming years to improve profit margins. 
 
 ### Two additional Queries:
 
